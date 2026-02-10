@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cookbook>
+  <name>Семейные рецепты</name>
+  <export_date>2024-01-15T10:30:00.000000</export_date>
+  <recipes>
+    <recipe>
+      <name>Спагетти Карбонара</name>
+      <description>Классическое итальянское блюдо с беконом и сыром</description>
+      <category>Паста</category>
+      <prep_time>15</prep_time>
+      <cook_time>20</cook_time>
+      <difficulty>Medium</difficulty>
+      <servings>4</servings>
+      <ingredients>
+        <ingredient>
+          <name>Спагетти</name>
+          <quantity>400</quantity>
+          <unit>g</unit>
+          <notes/>
+        </ingredient>
+        <ingredient>
+          <name>Бекон</name>
+          <quantity>200</quantity>
+          <unit>g</unit>
+          <notes>нарезанный кубиками</notes>
+        </ingredient>
+      </ingredients>
+      <instructions>
+        <step number="1">Сварите спагетти в подсоленной воде до состояния аль денте.</step>
+        <step number="2">Обжарьте бекон до хрустящей корочки.</step>
+      </instructions>
+    </recipe>
+  </recipes>
+</cookbook>
